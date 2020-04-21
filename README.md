@@ -14,6 +14,6 @@ Also, this project is our Hackathon Project and we placed 1st among Turkey in th
  - PostgreSQL
  
 ### Android App:
-  -Java
+  - Java
   
  
