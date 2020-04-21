@@ -16,4 +16,9 @@ Also, this project is our Hackathon Project and we placed 1st among Turkey in th
 ### Android App:
   - Java
   
+## Screenshots:
+
+![](ss1.png)
+![](ss2.png)
+![](ss3.png)
  
